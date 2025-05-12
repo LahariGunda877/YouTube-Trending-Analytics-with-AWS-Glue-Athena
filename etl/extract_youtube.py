@@ -8,3 +8,4 @@ def extract_youtube_data(file_path):
 
 if __name__ == "__main__":
     df = extract_youtube_data("data/USvideos.csv")
+    print("testing")
